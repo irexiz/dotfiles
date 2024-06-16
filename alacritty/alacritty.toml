@@ -1,0 +1,5 @@
+import = ["/home/seffers/.config/alacritty/catpuccing/catpuccing-mocha.yml"]
+
+[font.normal]
+family = "FiraCodeNerdFontMed"
+style = "Bold"

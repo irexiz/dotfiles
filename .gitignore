@@ -1,7 +1,7 @@
 # Ignore all
 *
 
-# Except those dirs
+# Except these
 !.gitignore
 
 !waybar/
@@ -18,6 +18,9 @@
 
 !fish/*
 !fish/
+
+!alacritty/*
+!alacritty/
 
 !hyprland-autoname-workspaces/*
 !hyprland-autoname-workspaces/

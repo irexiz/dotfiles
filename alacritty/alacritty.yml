@@ -1,0 +1,6 @@
+import:
+  - ~/.config/alacritty/catpuccing/catpuccing-mocha.yml
+font:
+  normal:
+    family: DejaVuSansMNerdFont
+    style: Bold
