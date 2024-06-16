@@ -1,0 +1,23 @@
+# Ignore all
+*
+
+# Except those dirs
+!.gitignore
+
+!waybar/
+!waybar/*
+
+!swaylock/
+!swaylock/*
+
+!hypr/*
+!hypr/
+
+!tmux/*
+!tmux/
+
+!fish/*
+!fish/
+
+!hyprland-autoname-workspaces/*
+!hyprland-autoname-workspaces/
