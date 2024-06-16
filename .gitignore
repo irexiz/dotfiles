@@ -24,3 +24,6 @@
 
 !hyprland-autoname-workspaces/*
 !hyprland-autoname-workspaces/
+
+!nvim/*
+!nvim/

@@ -4,6 +4,7 @@ abbr -a vf 'nvim ~/.config/fish/config.fish'
 abbr -a sf 'source ~/.config/fish/config.fish'
 abbr -a vh 'nvim ~/.config/hypr/hyprland.conf'
 abbr -a vt 'nvim ~/.config/tmux/tmux.conf'
+abbr -a vv 'nvim ~/.config/nvim/init.lua'
 abbr -a vim 'nvim'
 abbr -a e 'nvim'
 abbr -a logout 'hyprctl dispatch exit'
@@ -19,6 +20,8 @@ if status --is-interactive
 		eval "tmux $ATTACH_OPT"
 	end
 end
+
+zoxide init fish | source
 
 if command -v exa > /dev/null
 	abbr -a l 'exa'

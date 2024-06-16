@@ -140,3 +140,13 @@ tooltip {
     border-right: 0px;
     margin-left: 0px;
 }
+
+.custom-spotify {
+    border-radius: 25px;
+    margin-right: 5px;
+    border: 2px solid black;
+    padding: 0 10px;
+    margin: 0 4px;
+    background-color: #1DB954;
+    color: black;
+}
